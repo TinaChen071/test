@@ -12,6 +12,6 @@
     @apply text-gray-900 inline-flex items-center rounded-md py-2 px-3 text-sm font-medium;
   }
   .test {
-    @apply text-red-600;
+    @apply focus:text-green;
   }
 }
